@@ -1,0 +1,21 @@
+{
+  "name": "degoogle",
+  "version": "1.0.0",
+  "description": "A huge list of alternatives to Google products. Privacy tips, tricks, and links.",
+  "main": "_build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:tycrek/degoogle",
+  "author": "tycrek <t@tycrek.com> (https://tycrek.com/)",
+  "license": "ISC",
+  "bugs": "https://github.com/tycrek/degoogle/issues",
+  "homepage": "https://github.com/tycrek/degoogle#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "moment": "^2.26.0",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.9.4",
+    "yaml": "^1.10.0"
+  }
+}
